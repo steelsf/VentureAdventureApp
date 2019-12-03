@@ -24,6 +24,6 @@ public class Part9 extends AppCompatActivity {
         Intent i;
         i = new Intent(this, Part9_Good.class);
         startActivity(i);
-    }
+    } //fixed
 
 }
