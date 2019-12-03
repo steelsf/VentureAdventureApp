@@ -1,0 +1,583 @@
+<resources>
+    <string name="app_name">Venture Adventure</string>
+    <string name="welcomeMessage">A Choose-Your-Own Adventure Story of a Young Entrepreneur</string>
+    <string name="startAdventure">Start the adventure \=\></string>
+    <string name="chapter1">Chapter 1</string>
+    <string name="chapter2">Chapter 2</string>
+    <string name="chapter3">Chapter 3</string>
+    <string name="chapter4">Chapter 4</string>
+    <string name="chapter5">Chapter 5</string>
+    <string name="chapter6">Chapter 6</string>
+    <string name="chapter7">Chapter 7</string>
+    <string name="chapter8">Chapter 8</string>
+    <string name="chapter9">Chapter 9</string>
+    <string name="continueText">Continue</string>
+    <string name="optionsText">You choose what happens next: </string>
+    <string name="endText">End the story.</string>
+    <string name="part_1">
+        The city center was swirling with activity. There must have been a thousand different things to look at,
+        but Buzz was admiring one thing. Not too far off was a group of people holding some sort of meeting.
+        It was a fairly diverse group- some old some young, some tall some short, some men some women- but they
+        all had one thing in common: wealth.
+        \n\nBuzz had never known wealth. He came from a modest home where his mother and brother had enough but not
+        usually much more than that. He wondered what it be like to be wealthy.
+        \n\nBuzz walked past this spot frequently to see the Professor. The Professor was not actually a professor
+        anymore. He gave up teaching at the college to teach at the local high school “where the real lessons
+        need to be taught,” he would often say. Buzz had the Professor as a teacher a couple years ago, but he
+        continued to talk with him often. In Buzz’s opinion, the Professor was the wisest person he had ever met.
+        And Buzz was probably right.
+        \n\n“What is on your mind?” the Professor asked.
+        \n\n“Oh, nothing. I was just looking at those nicely dressed people over there,” Buzz replied.
+        \n\n“Ah yes. Those are a group of investors, if I am not mistaken. It looks like they are discussing a large
+        business proposition,” the Professor explained.
+        \n\n“They are all wealthy, huh?” Buzz guessed.
+        \n\n“Most of them are, but they were not always wealthy. Many of them have started businesses of their own to
+        get to where they are,” reported the professor.
+        \n\nBuzz stuck around a few more minutes while the professor explained how a lot of the wealthy people in the
+        community had started successful businesses, and how businesses can help people to become wealthy.
+        \n\n“Starting a business involves taking risks, but, to gain wealth, you have to take risks.” The professor added,
+        “the key is to take risks wisely.”
+        \n\nThose words stuck in Buzz’s head as he traveled home for dinner. He wondered if he could start a business
+        himself one day. Maybe he would become wealthy, he thought. As he went to bed that night, he could not stop
+        thinking about what the professor said.
+    </string>
+    <string name="part_1_boxed_section">In many areas of the world, the best way to earn a living or to become wealthy is
+        to start a business. Like the Professor explained, it is important to take those risks wisely
+    </string>
+    <string name="part_2">The next morning, Buzz woke up after having a very vivid dream. In his dream, he had started a
+        successful business and he was wealthy.
+        \n\n“What a crazy dream…” Buzz though. “I wonder if that would ever come true one day.” Buzz though he really didn’t
+        know much about starting or owning a business. “Oh well,” he said dismissively.
+        \n\n“Morning, Buzz!” his little brother greeted him.
+        \n\n“Morning, Leo.” His little brother was such a happy kid. Buzz was lucky to have him as a brother. Buzz considered
+        his little brother to be his best friend. Buzz turned to his mom. “Good morning, Mom.”
+        \n\n“Good morning, Buzz,” his mom smiled back.
+        \n\n“Hey Mom, do we have any bread?” Buzz asked his mom as they sat at breakfast. “Don’t you think eggs go well with
+        bread?”
+        \n\nHis mom agreed. “I do think eggs go well with bread, but we do not have any bread today. The bakery is a good half
+        hour walk one way.” She looked at Buzz and Leo and smiled. They smiled back. “I’ll get some more bread sometime
+        next week.”
+        \n\nAfter breakfast, Buzz walked his brother to his brother’s school and continued on the path towards his own school.
+        The path led next to a large fish store.  Buzz paused. “Frankie’s Fish”, Buzz read the sign aloud.
+        \n\n“How can I help you?” a voice came from inside the store’s porch. Buzz hadn’t even noticed the man. The fish salesman
+        exited the shade of the porch and offered Buzz a smile. “Are you looking for fish?”
+        \n\n“Oh, no. Thank you, though.” Buzz blushed a bit. He was just reading the sign. He had not noticed the sign before.
+        “Hey,” Buzz continued, “who is Frankie?”
+        \n\nThe man gave another smile and said “well, Frankie is the owner.” He searched Buzz’s eyes to see if that answered
+        his question. “Frankie owns ‘Frankie’s Fish’. He started this shop over ten years ago. He is usually not here since
+        he has people run the store for him, but he is actually here today.” The man thought for a second the continued
+        “would you like to meet him?”
+        \n\nBuzz accepted the invitation. Frankie had started a business. Maybe he could tell Buzz how to start a business.
+        Frankie came out of the store, full of smiles. His hands were rough from years of hard work, but a little softer
+        than they used to be as Frankie now had more time to spend doing things other than work over these past few years.
+        Frankie greeted Buzz and the two started a discussion about how Frankie started ‘Frankie’s Fish’. Buzz learned all
+        sorts of good things, and he felt really encouraged about one day starting his own business.
+        \n\n“But how did you know it was going to work?” Buzz asked near the end of the conversation. It was getting close to
+        when school would start.
+        \n\n“Well,” Frankie replied, “I did not know for sure that I would be successful, but you know what made me believe I
+        would be successful?” Frankie paused for dramatic effect. He knew this was a nugget of wisdom that a young man like
+        Buzz could profit from if he understood it. “I believed I would be successful because I saw a need. I saw that there
+        was a need in this town for a fish store, and I could help meet that need. That is why I thought I would be successful.”
+        That nugget of wisdom would not be lost on Buzz. Buzz thought about it for a moment before realizing he really did
+        need to leave for school now.
+        \n\n“Thank you for your time mister Frank!” Buzz concluded. “I have to go to school.”
+        \n\n“No worries, Buzz. And please, call me Frankie.” Frankie watched as Buzz galloped off towards school.
+    </string>
+    <string name="part_2_boxed_section">Part of what made Frankie successful in his fish business was that he saw a need for
+        selling fish in the town. To be successful as an entrepreneur, it is important to find a need or to find something
+        that people would be willing to pay money for.
+    </string>
+    <string name="part_3">
+        Later that night he sat with his mom and little brother for dinner. His mom had made fish. After they had all chatted
+        about their day a little bit, Buzz asked “Mom, did you buy this fish from ‘Frankie’s Fish’?”
+        \n\n“I did,” she replied. “I always buy our fish from there. They have quality fish for a very good price, and they are
+        nice to their customers. Why do you ask?”
+        \n\nBuzz explained. “I met Frankie today. We talked a little bit about how he started his business. He is a really nice guy.
+        He told me all about how to start a fishing business.”
+        \n\nHis mom was proud of Buzz for talking to Frankie and learning about his business. “That is fantastic that you talked
+        with him,” she said warmly. She continued, “I have never met Frankie myself, but I have met Maria.”
+        \n\n“Who is Maria?” inquired Buzz.
+        \n\n“You know how we have eggs for breakfast?” His mom began. “Maria owns the egg store where we get our eggs. We always
+        get our eggs from Maria.” She went on to explain that Maria started her eggs business five years ago. Maria started
+        small and has grown to provide eggs for most of the people in the town. Buzz could see that his mom was very proud of
+        Maria. “She was a normal person who had a great idea and took a chance on starting a business. She did a good thing for
+        herself, and for others since everyone on this side of town can get fresh eggs easily.”
+        \n\nBuzz enjoyed the story. He had no idea where the eggs came from before then. And Maria was a normal person with a good
+        idea, his mom had said. A normal person can start a business, he thought. As he got ready to sleep, he asked himself
+        “should I try to start a business?”
+    </string>
+    <string name="part_3_option_1_good">
+        Buzz decides to start a business.
+    </string>
+    <string name="part_3_option_2_bad">
+        Buzz decides not to start a business.
+    </string>
+    <string name="part_3_result_option_2_bad">
+        Buzz had been really excited to start a business, but that excitement faded over time. “I should be realistic,” he
+        told himself. Starting a business did not sound very realistic. Also, it would be easier not to try to start a
+        business. If he tried to start a business, he might fail.
+        \n\nOver the next few weeks, Buzz instead tried to find a part time job. He was close to being done with school, and he
+        needed to help support his family. It took some time, but eventually Buzz found a part time job at a local store. He
+        stocked the shelves and kept the place clean. It was a terribly boring job, but he made some money doing it.
+        \n\nAfter a month or two of working there he received some unfortunate news. The store owner, who had hired him just months
+        before, told Buzz that he would have to let Buzz go. The owner had sold his business to another company who planned to
+        change up the store. Unfortunately, the company already had enough employees, and his job was going to be eliminated.
+        \n\nBuzz felt really blue about the news, so he went for a really long walk to try to think through what he should
+        do. Either he would now try to start a business, or he could look for another job.
+    </string>
+    <string name="part_3B_option_1_good">
+        Buzz decides to start a business.
+    </string>
+    <string name="part_3B_option_2_bad">
+        Buzz decides to look for another job.
+    </string>
+    <string name="part_3B_result_option_2_bad">
+        Buzz spent the next month searching for work. Eventually he settled for a job that he did not want. It did not pay
+        much, and he was not likely to learn much doing the work. However, he stuck with it. He stayed in his job for years,
+        actually. He felt that the job was sucking the life out of him, but he appreciated that is was stable.
+        \n\nHe sometimes had the urge to try to start a business, but he suppressed the urge. Eventually instead of having
+        the desire to start a business, he just thought wishfully about it. He wondered what would have become of his life
+        if he had tried to start a business. He saw new businesses start up in his town and thought how that might have been
+        exciting to be the one to start that up.
+        \n\n“Oh, well”, Buzz thought. “Some people are just not meant to have success,” he said with a sigh.
+        \n\nThis is the end of the story, but would you like to know what would have happened to Buzz if he tried to start
+        a business?
+    </string>
+    <string name="part_4">
+        This morning Buzz woke up feeling good about starting a business. As he came to the table for breakfast, he looked at the
+        eggs his mom had made. “Maria’s eggs,” he said.
+        \n\n“That is right,” his mom replied.
+        \n\n“I am going to start a business like Maria did,” Buzz announced.
+        \n\n“That is wonderful, Buzz,” his mom encouraged. She then added “it will not be easy, you know.”
+        \n\n“I know, but I am going to do it,” Buzz replied.
+        \n\nLeo joined in on the encouragement. “I am sure you can do, it Buzz. You are smart.” That made Buzz smile. “Hey Mom,” Leo
+        said moving on, “do we have any bread today?”
+        \n\nHis mom answered, “sorry, Leo. We do not have bread today.”
+        \n\nBuzz only partially heard the rest of the conversation. His mind was wandering through the possibilities of starting a
+        business. He definitely wanted to do it. He just needed to figure out what type of business to start.
+        \n\nBuzz thought about it most of the day. Sometime around lunch he decided, he could not wait to tell his family that
+        evening.
+        \n\n“I am going to start a fishing business like Frankie” Buzz told his family during dinner.
+        \n\n“Fishing, huh?” his mother replied.
+        \n\n“Yeah, Frankie already told me a bunch about it, he was already successful at it, so I could be too,” Buzz said
+        confidently.
+        \n\nHis mom looked a bit worried. “Frankie’s Fish already has low prices, lots of variety, and everyone trusts them…” she
+        pointed out.
+        \n\n“I think I will start fishing tomorrow, and then try to sell it. Frankie said he started small like that,” Buzz reported.
+        \n\nHis mom’s comment hadn’t registered yet.
+        \n\nHis mom replied, “that may be how the business started, but now it is quite the fish store to compete with. You could
+        also consider trying to start a different sort of business.”
+        \n\nBuzz had liked the idea of a fish story because he already knew how to fish, but he could consider starting a different
+        kind of business. “Like what?” said Buzz.
+        \n\n“Well,” his mom was searching her brain for an idea, “I am sure there are lots of good options.”
+        \n\nThe room was silent for a moment.
+        \n\nThen Leo piped up. “How about a bakery?”
+        \n\n“Oh, that is a good idea!” His mom said with relief.
+        \n\n“But I don’t know how to make bread,” Buzz said with mild objection.
+        \n\nHis mom was quick to encourage “I am sure you could learn. I have made bread before, and it is not too hard to do.”
+        \n\nBuzz did like the idea. He liked bread.
+        \n\n“And,” his mom added with a smile “I sure would appreciate the two of you not asking me for bread all the time.”
+        \n\nThat was a lot to think about. Buzz was serious about starting a business, and this was a really big decision. He didn’t
+        know how to make bread, but maybe there really was a need for it.
+    </string>
+    <string name="part_4_option_1_bad">
+        Buzz tries to start a fishing business.
+    </string>
+    <string name="part_4_option_2_good">
+        Buzz tries to start a bakery.
+    </string>
+    <string name="part_4_result_option_1_bad">
+        Buzz decided to go ahead and start a fishing business. The next day, Buzz spent half of the day fishing and half of
+        the day trying to sell his fish. He had woken up really early to try to get a good catch before the day was too hot. By
+        mid- morning he had a group of fish that he could sell, so he hurried to the city center where vendors often sold things.
+        \n\nHe found a spot where people would see him and his fish. He even made a sign, so he might attract people. “Fresh
+        fish!” He yelled. No one seemed interested.
+        \n\nAfter an hour or two, he was feeling pretty discouraged. He asked himself why no one was buying the fish. Then he
+        asked people who were passing by. “Excuse me, do you know why no one around here is buying my fish?” He asked a few
+        different people before someone gave him an answer.
+        \n\nThey told him that they already buy their fish from Frankie’s Fish. It is quality and well-priced, and they always
+        have a good variety. It sounded like what his mom had said. He did not stop at one answer, but as fate would have it,
+        the next three people he asked told him almost the same exact thing. Eventually Buzz did sell some of his fish that day,
+        but he had already caught on to how hard it would be to sell fish while people could get fish from Frankie’s Fish. Buzz
+        headed home with his remaining unsold fish.
+        \n\n“I think I might start a bakery,” he reported to his family that night at dinner.
+        \n\n“Well, we loved the fish you brought back,” his mom said. She knew failing was never easy.
+        \n\nBuzz chuckled. “I am glad we could use the fish, at least. But it was just like you said. Everyone already goes to Frankie’s Fish. I think I could still sell some fish, but it would be really hard to start a fish business in the same town as Frankie’s Fish.”
+        \n\nBuzz was deep in thought as he drifted off to sleep that night. “I can do this,” he said to himself. “I just need to figure out how.”
+    </string>
+    <string name="part_4_result_option_1_bad_boxed_section">
+        Part of being successful in starting a business is finding a need that is not yet being filled or that you could fill
+        better. To be successful at his fishing business, Buzz would have needed to find a way to compete with Frankie’s Fish.
+    </string>
+    <string name="part_5">
+        Buzz woke up the next morning, excited about the prospect of starting a bakery. Where to start? “The Professor!” he
+        thought. “He would know what to start with.” Buzz went to school early that day and found the Professor so he could ask
+        how to start a bakery.
+        \n\nBuzz told the Professor about his bakery idea. The Professor was proud of Buzz. “I like it! How do you plan to start?”
+        \n\n“That is what I wanted to ask you,” Buzz admitted. “Where should I start?”
+        \n\n“Okay,” responded the Professor. “Tell me what you have thought of so far.”
+        \n\nBuzz thought for a second. He had thought about it but had not written anything down. “Well, I know I need to learn to
+        make bread…” Buzz began. “…and then I need to sell it. I was just going to use my Mom’s kitchen. Maybe I could sell it
+        at school or maybe from our house.”
+        \n\n“Those are all great thoughts,” the Professor reassured him. “There is nothing wrong with starting in your mother’s
+        kitchen. It is usually a good idea to start small and with low costs, if possible. Selling at school could be good. You
+        could take orders from there and then the next day bring the bread that people ordered. You could even deliver the bread,
+        if you wanted.”
+        \n\nBuzz nodded. Start in his mother’s kitchen. Sell at school. Take orders there. Deliver maybe.
+        \n\nThe Professor continued. “Sorry. I am getting ahead of myself. I am just excited for you. I think the first place to
+        start, actually, is pressure testing your value proposition.”
+        \n\n“What is a pressure test?” Buzz said with a worried face.
+        \n\n“Oh, just a term of speech. I mean to say that you should see if your idea is a good one. You could write out what you
+        are going to do and why people would want to buy your product. Next you can find out if people will be willing to buy
+        that product.”
+        \n\n“Okay.” Said Buzz. “How would I do that?”
+        \n\n“Sometimes just trying to sell the product is a good way to see if people will buy it. However, that can be risky if you
+        put a lot of time and effort in to making something only to find out that people do not even want what you made. So, one
+        way to make it less risky would be to try to find out if people will buy what you are going to make even before you make
+        it. You could ask people if they would be interested in buying bread from you. If you get a good response from that then
+        you could bring some bread and see if people would be willing to buy it.”
+        \n\nBuzz talked a bit more with the Professor and left feeling very encouraged. He liked the Professor’s idea of trying to
+        find out if it is a good idea before spending the time making it. It was going to take him some time to learn to make the
+        bread, anyway.
+        \n\nBuzz asked friends at school, and he asked his friends to ask their parents and see if they would be interested in
+        buying bread. Buzz got nothing but positive feedback. Buzz had found a good idea because it really filled a need.
+    </string>
+    <string name="part_5_boxed_section">
+        The first step in creating a business is often to create the “value proposition” or what value the business brings. It is
+        also a good idea whenever possible to do some research to find if people would be willing to pay for your product
+    </string>
+    <string name="part_6">
+        Learning to bake was not as hard as he thought. His mom and brother enjoyed tasting the practice loaves (when they tasted
+        good). He soon was confident at making bread.
+        \n\nHe brought some sample bread to school to give to those who said they would be willing to buy the bread. They enjoyed
+        the bread! They began to be excited about having fresh bread more often. Buzz could not be happier.
+        \n\n“So how much does a loaf cost?” A friend asked.
+        \n\nBuzz was caught off guard. He had not even thought about how much to charge for his bread. “Well,” he began, “it won’t
+        be free… and it won’t be too expensive… Let me get back to you on that.” The friend seemed satisfied with the answer for
+        now.
+        \n\nBuzz went straight to the Professor. “I have a problem.”
+        \n\n“What is it?” the Professor said with concern.
+        \n\n“My friends are asking me how much to charge for my bread and I don’t know what to say,” Buzz explained.
+        \n\n“That sounds like a good problem to have,” the Professor said with a smile. “So, you brought your bread to school,
+        and they
+        liked the bread?”
+        \n\n“Yes,” Buzz said as a smile came across his face.
+        \n\n“Congratulations. You have a solid value proposition. So, yes, next would be pricing, I suppose. This is a very
+        important
+        aspect about selling a product.” The Professor glanced at Buzz before beginning an impromptu lesson. “Let us start with
+        what profit means. Profits is how much money a company makes after it has paid for everything. It is equal to all of the
+        revenue (which is money that the business brings in) minus all of the costs. In order for your business to be successful,
+        your business will need to make more revenue than cost.”
+        \n\n“Got it, I think. I need to make more money by selling the bread than it cost for me to make the bread.” Buzz said,
+        trying to internalize what the Professor was saying.
+        \n\n“Exactly. So, for pricing, you can consider two things. One, what is your minimum price? Two, what are people willing
+        to
+        pay?” The Professor paused. “Let us start with the first one. What does it cost you to make a loaf of bread?”
+        \n\n“Well, I spend five dollars on the ingredients, and I was able to make ten loaves of bread,” Buzz said. He thought
+        for a
+        second and then continued, “so it cost me a half of dollar per loaf of bread. That would be my minimum, then. I cannot
+        charge less than half a dollar.”
+        \n\n“Correct,” the Professor said proudly. “The next thing to consider is how much people are willing to pay. For that, it
+        would be good to look at what people do now. Do you know how much people pay to buy bread now?”
+        \n\nBuzz had gone with his mother to buy bread before. It was in a neighboring town, so they did not go frequently. “I
+        think
+        a loaf of bread cost two dollars where my mom gets it, and she is usually pretty good about finding good prices.”
+        \n\n“That gives us some margin to work with. You could consider pricing above that. Since it will be more convenient for
+        people to buy from you, they may be willing to pay two and a half dollars, for example. And you could consider pricing
+        below that which may encourage people to start buying your bread instead of the other bread even for people in the
+        neighboring town. However, you need to remember that you want your business to make a profit, and you have limited time.”
+        \n\n“This makes sense.” Buzz paused and thought about what the Professor was teaching him.
+        \n\n“One more thing. You do not need to worry too much about this right now while you are starting out, but this will
+        become
+        more important later. You should keep the business’s money separate from your own money. You ideally would have the
+        business pay you a salary. That way the cost of your time is taken into consideration. Also, that way you also have a
+        more clear idea of the business’s actual profits.”
+        Buzz had a confused look on his face.
+        \n\n“My apologies, Buzz. One step at a time. Do not worry about that yet.” The Professor said. “If you have not already, I
+        would consider writing things down about your business. You can write out your plans, then include your costs and how
+        you plan to price the bread.” The Professor knew this was a lot of information to a young, budding entrepreneur, but it
+        was all so important, he thought. “That can be a homework assignment of sorts.”
+        \n\nBuzz smiled. That is a homework assignment that he could be excited about. All of the numbers did seem daunting
+        until he
+        wrote them down, but despite that, Buzz felt good about his venture.
+        \n\nBuzz wrote down his expenses that night before bed. Each loaf cost half of a dollar. Bread in the neighboring town cost
+        two dollars. That would be his competition. Everyone in his town had to walk a long way to get to that bread, though.
+    </string>
+    <string name="part_6_option_1_bad1">
+        Buzz chooses to price the bread at half a dollar per loaf.
+    </string>
+    <string name="part_6_option_2_good">
+        Buzz chooses to price the bread at 2 dollars per loaf.
+    </string>
+    <string name="part_6_option_3_bad2">
+        Buzz chooses to price the bread at 5 dollars per loaf.
+    </string>
+    <string name="part_6_result_option_1_bad1">
+        Buzz wanted to sell as many loaves possible, so he decided to price as low as possible. A half a dollar was the
+        minimum price, right? I will price at a half a dollar and I will get tons of business.
+        \n\nEveryone was very surprised that the Buzz’s bread was so cheap. His friends ordered so much bread he did not know
+        if he could keep up with the demand. What a success this would be!
+        \n\nThat night Buzz spent the entire night baking bread. He could barely keep his eyes open during school, but he was
+        very happy that he had fulfilled all the orders. More orders came in the next day. There is no way he could keep this up.
+        \n\nHe counted out how much money he had made, and he barely had enough to buy ingredients for the next day. Why did
+        he think pricing as low as possible was a good idea? He did the math again that night and found that he really was not
+        making any money despite his hard work. He determined to raise the price.
+    </string>
+    <string name="part_6_result_option_3_bad2">
+        Buzz wanted to maximize his profit so why not price really high? He chose to set his price at five dollars per
+        loaf. He would make four and half dollars of profit per loaf!
+        \n\nWhen he told his friends at school, most of those who said they were interested told him they were no longer
+        interested. He did have a few orders, which he was happy to fulfill. When he brought the bread the next day, his
+        customers were happy to take the bread, but at the same time they seemed to be unhappy with the exchange. The
+        following week he tried to talk to them again about buying bread, but they said they were no longer interested.
+        \n\nFive dollars gave him a lot of profit per loaf, but he was not doing good for his customers. That was too much
+        money for a single loaf. The next day he decided to lower his price.
+    </string>
+    <string name="part_6_result_option_2_good">
+        Buzz decided to price his bread at two dollars per loaf. He figured he would still get plenty of business because
+        his bread would be more convenient for people who lived in his side of town. Also, he thought his bread tasted better,
+        anyway.
+        \n\nIt turned out that Buzz was right, at least about getting plenty of business. He got enough orders to keep him
+        very busy. He soon had orders regular enough to have ten loaves ordered five days each week. His business was becoming
+        successful!
+        \n\nHe told the Professor about his success. The Professor was beaming with pride. He asked how much profit his business
+        had made. That stumped Buzz for a minute. The Professor offered some help. “You can find your business’s profit by
+        adding up all of the revenue (so price per loaf times how many loaves) and then subtracting all of the costs from the
+        revenue. If you have already priced out the cost per loaf, then you could also look at how much profit per loaf and then
+        multiply that by how many loaves you have sold.”
+        \n\nBuzz did the math on paper. He was selling ten loaves per day for five days each week. That was fifty loaves. Each
+        loaf cost him half of a dollar and sold for two dollars, so that was one and one half dollars per loaf. That multiplied
+        by fifty loaves was seventy-five dollars per week. He showed the Professor his work.
+        \n\n“That is fantastic, Buzz.” The Professor looked at the numbers a bit longer. “Half a dollar per loaf. How much do you
+        pay per kilogram of flour?”
+        \n\nBuzz and the professor talked through how Buzz could now possibly get a better deal on flour since he was buying so
+        much. He could likely buy the flour in bulk and get a discount. The next day Buzz did just that. The cost per loaf was now
+        only three tens of a dollar. That meant he was making 85 dollars per week in profits!
+        \n\nBuzz felt that he was now really rolling in the dough.
+    </string>
+    <string name="part_7">
+        Buzz enjoyed steady sales from his bakery business. Slowly his business started to grow as his customers told others about
+        his bread. His younger brother had taken an interest in the bread making, so now they made the bread together and the work
+        did not take as long. He decided to pay his brother a wage out of the profits. The wage was fair, and he still made a
+        healthy profit per loaf of bread. With his brother working, Buzz realized he could actually make more loaves per week if
+        people would buy them.
+        \n\nThe next day as he was bringing the loaves of bread to his customers, a lady that was his mother’s age waved for him to
+        come over. He came over to where the lady was.
+        \n\n“Hey Buzz, I am Maria. I am a friend of your mom.” The lady said with a smile.
+        \n\n“Maria! You have the egg store!” Buzz realized who the lady was.
+        \n\n“That is right.” Said Maria. “And your mom told me that you have started a bakery! How is it going?”
+        \n\n“It is good. Sales have been pretty steady. People say they like the bread. I hired my brother, so now I can make more
+        bread. I am just trying to figure out how to get more customers more quickly, you know?” Buzz said. It occurred to him
+        that Maria would be a good person to ask about business things since she started a successful business.
+        \n\n“That is great, Buzz!” She could see why his mother was so proud of him. “I remember starting out. Getting customers
+        can
+        definitely be hard. A lot of times the business will grow just by ‘word of mouth’ as customers tell other people.”
+        \n\nBuzz nodded in agreement.
+        \n\nMaria continued, “you can also do some marketing. Have you tried advertisements?”
+        \n\n“I do not think so. Do you mean like a commercial on the radio?” Buzz asked.
+        \n\n“Well, radio is one of the ways you can advertise. I have actually tried a number of different types of advertising. I
+        did a radio commercial once. It was not very targeted- it did not reach the right group of people. I now usually put an
+        advertisement in the newspaper near the food section,” Maria explained.
+        \n\nBuzz thanked Maria for the suggestion. They talked a little more before wishing each other a good day. Buzz left
+        excited
+        to put an advertisement in the newspaper.
+        \n\nHe contacted the newspaper and found out what their advertisement placements cost. He could do a small add near the
+        food
+        section for ten dollars for the week or he could do a huge advertisement on the front of the newspaper for one hundred
+        dollars for the week.
+    </string>
+    <string name="part_7_option_1_good">
+        Buzz chooses to place a small advertisement near the food section for ten dollars for the week.
+    </string>
+    <string name="part_7_option_2_bad">
+        Buzz chooses to place a large advertisement for one hundred dollars for the week.
+    </string>
+    <string name="part_7_result_option_2_bad">
+        Buzz was really excited about advertising. He knew that the big advertisement was really expensive, but he thought it
+        would make his business grow enough to compensate for the high cost. So, he ordered the expensive advertisement.
+        \n\nLater that week he did get some extra orders, and that made him happy. He felt good about the decision until he
+        started to calculate his profits for the week. The advertisement had increased the orders of bread some, so he was now
+        making ninety-five dollar in profits per week. The advertisement still cost more than his whole week’s profits. The
+        next week Buzz opted to reduce to the smaller advertisement for ten dollars a week.
+    </string>
+    <string name="part_7_result_option_1_good">
+        The small advertisement seemed to be just right. He got more customers, but the advertisement was a reasonable portion
+        of his overall costs. He could afford to continue the small advertisement, and he did not have to worry about the large
+        advertising expense.
+    </string>
+    <string name="part_7_result_option_1_good_boxed_section">
+        Advertising is an important aspect to many businesses. The small advertisement was just right for Buzz’s business.
+    </string>
+    <string name="part_7_conclusion">
+        Buzz told the Professor about what he learned from Maria.
+        \n\n“That is great. Networking can really help your business now and in the future.” The Professor said.
+        \n\n“What is networking?” Buzz asked the Professor.
+        \n\nThe Professor thought for a second of how to define networking. “Networking is simply interacting with others and
+        exchanging ideas. You talking with Maria is an example of networking. As you meet other business owners, you can help
+        each other have good ideas and can find ways that you can help each other.” The Professor looked at Buzz to see if that
+        answer made sense to him before continuing. “In fact, I bet there are already ways that you and Maria could help each
+        other out.”
+        \n\nBuzz and the professor discussed how they could help each other. They landed on Buzz passing out business cards
+        for Maria’s eggs when people buy his bread and asking that Maria pass out business cards for Buzz’s bread when customers
+        buy eggs from her.
+        \n\nBuzz explained the idea to Maria the next day, and Maria loved it. Soon the two businesses were helping each other
+        grow, and Buzz and Maria were building a business partnership that would continue to help their businesses.
+    </string>
+    <string name="part_8">
+        Buzz spent the next year expanding his business. He began making a variety of different types of bread, and he attracted
+        a variety of types of customers- from friends to strangers to other businesses. He hired a couple of his brother’s friends
+        and taught them to make the bread. Once they were confident in making the bread, the business was ready to grow to the
+        next level. Buzz wanted to build a storefront where people could come to him to buy the bread. He also needed to build an
+        official baking oven so he did not have to keep using his mother’s kitchen for the business.
+        \n\nBuzz had stored up a respectable sum of money from the profits of the business. He had begun to pay himself a wage from
+        the business’s profits, just like the Professor had mentioned at the beginning. From that point on he kept his own money
+        and the money of the business separate, at the Professor’s suggestion. That way, he could see exactly how much profit the
+        business was making and how much the business had to saved up to invest in something like a storefront for his bread.
+        \n\nJust as Buzz was discussing with his brother what type of building the business could afford, a very professional looking
+        man approached Buzz. He carried a briefcase and wore darkly-tented sunglasses.
+        \n\nThe man said he had a proposition- a business loan. The man explained how much money he could get Buzz. Buzz became lost
+        in
+        thought for a second as he pictured a building much, much larger than the one they planned to build.
+        \n\n“Plenty of businesses get a business loan like this. It can get you what you want for your business, right now. You will
+        end up paying a good deal of interest, but that does not matter when you are a successful man like yourself. What
+        do you say?”
+        said the professional looking man.
+        \n\nBuzz did not trust the man. He did, however, like the idea of having a large bakery now instead of slowly building up to
+        that.
+    </string>
+    <string name="part_8_option_1_bad">
+        Buzz chooses to take the loan.
+    </string>
+    <string name="part_8_option_2_good">
+        Buzz chooses not to take the loan.
+    </string>
+    <string name="part_8_result_option_1_bad">
+        Buzz could not help daydreaming of the large bakery. “That would be success,” he thought. So, Buzz took the loan.
+        \n\nHe received the funds of the loans and went to work building a huge bakery. He had the money, so he hired a team of
+        people to build the bakery quickly and professionally. When they finished, the bakery looked stunning.
+        \n\nBuzz’s customers were very impressed at the large, beautiful bakery. His friends saw the building and told Buzz
+        how amazing it was that he was already so successful. Buzz loved the building and the attention.
+        \n\nThe next month the first payment of the loan came due. Wow, that was a large monthly payment. The business had
+        some money saved up, so Buzz did not worry too much.
+        \n\nEach month making the loan payment became more difficult. As fate would have it, Buzz’s business eventually ran
+        out of money. “I am going to get out.” He said, “I cannot do this loan thing anymore.”
+        \n\nBut he could not get out. He already spent the money on the large building. When he talked to the man again, he
+        seemed different. He no longer pretended to be nice. He talked to the man but received no mercy. He would have to make
+        the payments, or he would have to hand the business over.
+        \n\nBuzz tried as hard as he could for the next three months, but he simply could not make enough money to pay off his
+        debts. He sold the beautiful bakery, but it sold for much less than he paid to build it. He used that money to pay down
+        the loan but there was still much more due. Buzz had never felt so terrible in his life.
+        \n\nHe did not know what to do. He went to the Professor. He should have talked to the Professor before he got the loan.
+        \n\n“Life is not over,” the Professor said encouragingly, “but the business venture might be over.”
+        \n\nReality sunk in deep, and it hurt. That man who sold him the loan definitely did not have Buzz’s best interest at
+        heart. He wished he had not taken the loan. He wished he could go back and choose to not take the loan.
+        \n\nThis is the end of the story… unless you would like to go back and choose not to take the loan.
+    </string>
+    <string name="part_8_result_option_1_bad_go_back">
+        Go back and choose not to take the loan.
+    </string>
+    <string name="part_8_result_option_1_bad_end_story">
+        End the story.
+    </string>
+    <string name="part_8_result_option_2_good">
+        “I am not going to take your loan,” Buzz said resolutely to the man. His brother and friends looked at him, admiring
+        his resolution. They seemed to also feel that it would not be a good idea to get a business loan right now.
+        \n\nWhen he told the Professor, the Professor congratulated him. “There is a time and place for loans, but there are a
+        lot of times and places not for loans.”
+        \n\nBuzz felt relieved. He had made the right decision about that loan.
+        \n\nThe Professor added. “To make wealth you have to take risks, but you have to take them wisely.”
+    </string>
+    <string name="part_8_result_option_2_good_boxed_section">
+        Borrowing money to start or grow a business can be a wise thing in the right circumstances. It is important to assess
+        the needs and capabilities of the business. If Buzz had taken a loan that was too big for his business, it would have
+        led to a painful end for his business.
+    </string>
+    <string name="part_9">
+        Buzz and his employees finished building the bakery. It was not big, but all felt great pride in their
+        accomplishment. They painted “Buzz’s Bakery” on the top of the door frame.
+        \n\nAs the next few years went by, Buzz’s Bakery
+        experienced great success. His partnership with Maria help both of their businesses to grow. He consulted with the
+        Professor along with Maria often about how to continue to improve his business. He eventually hired more employees to
+        keep up with the demand, and he also began to spend much less of his own time baking. He was still very busy leading
+        the business, managing and training his team of employees, and finding ways to expand his business.
+        \n\nOne day a young man
+        came to the bakery asking to speak with Buzz. He was a few years younger than Buzz, and Buzz had not met him. Buzz was
+        busy training a new baker when the young man came. Buzz excused himself from training the new baker, asking for an
+        experienced baker to continue to help the new baker.
+        \n\nAs Buzz came to the front of the bakery to talk with the young
+        man, he recognized the expression on the young man’s face. The young man was trying hard to be confident, but he was
+        nervous. It reminded Buzz of how he first felt when he talked to Frankie at Frankie’s Fish, so Buzz offered the young
+        man a big smiled. The young man seemed relieved.
+        \n\nThe young man explained that he had a business idea but that he did
+        not know anything about starting a business. He had started keeping bees, and he had collected some of the honey. He
+        thought that he might be able to start a business selling honey.
+        \n\nThe young man paused, swallowed, and then said, “I was
+        wondering if you might be willing to mentor me on how to start a business.
+        \n\n”As the words hung in the air, the young
+        man’s heart beat twice its usually pace. His face was held in a half squinting position as if to prepare for a blow of
+        disappointment.
+        \n\nBuzz had learned a lot, but there was still so much he did not know. He was not sure if he could be a
+        good mentor. Also, he was very busy. He had a growing business to care for. If he did promise to mentor the young
+        man, the young man would probably have a lot of questions and take away a lot of his time.
+    </string>
+    <string name="part_9_option_1_bad">
+        Buzz wishes him good luck but tells him he is too busy.
+    </string>
+    <string name="part_9_option_2_good">
+        Buzz promises to mentor him.
+    </string>
+    <string name="part_9_option_2_good_second_chance">
+        Got back and Buzz promises to mentor him.
+    </string>
+    <string name="part_9_result_option_1_bad">
+        The young man had to understand that Buzz was really busy with his own business. “Look, I hope that you are
+        successful. I am just too busy to mentor you right now.” Buzz watched as the young man’s countenance fell. He felt a
+        sharp pang of regret.
+        \n\nThe young man looked away as he gathered himself. “I understand. You must be very busy. This is a growing
+        business.” The young man had really hoped Buzz would be willing to help him out some. He would not have asked for too
+        much of his time. “Thank you for your time,” he said. He resists the urge to ask again or to explain that he did not
+        mean to take too much of his time. He nodded goodbye as he turned around. The young man walked away.
+        \n\nBuzz regretted not having helped the young man. He tried to justify not helping. There are plenty of people that
+        could mentor him. He was really busy.
+        \n\nAnd he was very busy. So busy that he soon forgot all about the young man and the missed opportunity to help.
+        \n\nIt was not until years later that he heard of the young man’s success. The young man had eventually found the help
+        he needed to start a business. He started a large honey business. Everyone loved the honey.
+        \n\nIn fact, people started traveling from other towns to buy the honey. He eventually made a partnership with a
+        different bakery to recommend their bread to eat with his honey.
+        \n\nWhen Buzz realized who it was that started the honey store, his mind went back to the opportunity he had to help
+        him. He thought about that day and how he had justified not trying to help. He had probably had other opportunities to
+        help that he did not realize, but he had been busy and had not looked around to see how he could help people.
+        \n\nThe regret really hurt. He was so grateful that others had mentored him. He really should have given back. He could
+        try to help others in the future, but he really did wish he could go back and try to help that young man back then.
+        \n\nBuzz would continue to miss opportunities and to live with some regrets. Eventually he would learn that the real way
+        to be happy is to give and to help. If only he had learned that earlier in life, he would have had a much happier life.
+        \n\nThis is the end of the story, but it does not have to end this way.
+    </string>
+    <string name="part_9_result_option_2_good">
+        Buzz thought for a moment how this young man was just like he used to be. He thought of Maria and Frankie who had taken
+        the time to help him when he was just starting his business.
+        \n\n“I will mentor you,” Buzz declared. “I would be happy to help you how I can.”
+        \n\nThe young man thanked Buzz profusely. He told Buzz that he would be the best student possible and that Buzz would not
+        regret helping him.
+        \n\nAs it turns out, Buzz would actually be very, very glad he had helped him.
+        \n\nThe young man started his business in a simple way, taking orders and delivering honey. Everyone loved the honey, and
+        the news about the honey began to spread.
+        \n\nNeither the young man nor Buzz knew that the particular combination of flowers and plants in the town made for some of
+        the best honey that could be made.
+        \n\nSoon, the young man had his own store and his business was more successful than he had ever thought possible from a
+        honey store. People began to come from neighboring towns to buy this unique honey. The fame of the honey grew and so did
+        the business. And every time people came to try the honey, you know where they got bread to try the honey on? Buzz’s Bakery.
+    </string>
+    <string name="part_10">
+        Buzz continued to help others with his knowledge and his bakery. He never forgot the principles he learned nor those
+        who taught him the principles. He was grateful that he had taken risks and grateful that he had taken them wisely. He
+        was happy that he had chosen to help others. Those choices had made Buzz’s life a very, very happy one.
+        \n\nThat is the end of this story, but there is a much more exciting story waiting for you: real life. What
+        will you choose to do next?
+    </string>
+    <string name="goBack">Start Over</string>
+    <string name="theEndText">
+        The End
+    </string>
+
+</resources>
